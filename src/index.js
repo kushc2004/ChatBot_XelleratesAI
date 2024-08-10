@@ -1,7 +1,7 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import App from './App';
-import './styles/App.css'; // Include your CSS for global styles
+const React = require('react');
+const ReactDOM = require('react-dom');
+const App = require('./App').default;  
+require('./styles/App.css');
 
 ReactDOM.render(
   <React.StrictMode>
