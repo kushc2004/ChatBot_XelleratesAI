@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ChatBot_XelleratesAI/static/css/main.fd7c1746.css",
-    "main.js": "/ChatBot_XelleratesAI/static/js/main.7061b53d.js",
+    "main.js": "/ChatBot_XelleratesAI/static/js/main.adfe3ef7.js",
     "index.html": "/ChatBot_XelleratesAI/index.html",
     "main.fd7c1746.css.map": "/ChatBot_XelleratesAI/static/css/main.fd7c1746.css.map",
-    "main.7061b53d.js.map": "/ChatBot_XelleratesAI/static/js/main.7061b53d.js.map"
+    "main.adfe3ef7.js.map": "/ChatBot_XelleratesAI/static/js/main.adfe3ef7.js.map"
   },
   "entrypoints": [
     "static/css/main.fd7c1746.css",
-    "static/js/main.7061b53d.js"
+    "static/js/main.adfe3ef7.js"
   ]
 }
